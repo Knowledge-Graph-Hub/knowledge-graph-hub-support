@@ -4,7 +4,7 @@ This is the main forum for KG-Hub issues, support, and discussion. It covers too
 See the KG-Hub site at https://knowledge-graph-hub.github.io/ for further details.
 
 ## I want to start a KG-Hub project!
-Our [project template](https://github.com/Knowledge-Graph-Hub/kg-dtm-template) is a great place to start.
+Our [project template](https://github.com/Knowledge-Graph-Hub/kg-template) is a great place to start.
 
 You will find a [basic tutorial](https://github.com/Knowledge-Graph-Hub/kg-dtm-template/blob/master/Tutorials/Getting%20Started.ipynb) notebook there, and once you're familiar with the basics, try the [graph machine learning](https://github.com/Knowledge-Graph-Hub/kg-dtm-template/blob/master/Tutorials/Machine%20Learning%20on%20Knowledge%20Graphs.ipynb) tutorial.
 
